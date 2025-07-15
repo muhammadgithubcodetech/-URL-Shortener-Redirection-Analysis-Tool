@@ -1,0 +1,9 @@
+
+---
+
+**requirements.txt (Java equivalent summary)**
+
+```txt
+Java 17+
+Maven 3.6+
+Spring Boot Starter Web
